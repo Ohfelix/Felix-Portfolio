@@ -19,7 +19,7 @@ export const gridItems = [
   },
   {
     id: 2,
-    title: "Sou flexível fuso horário !",
+    title: "Sou flexível a qualquer fuso horário !",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-2",
     imgClassName: "",
@@ -74,8 +74,8 @@ export const projects = [
   {
     id: 1,
     title:
-      "Análise completa: do diagnóstico à implementação da melhor solução.",
-    des: "Precisando de um site, landing page ou sistema personalizado? Nossa análise completa te ajuda a encontrar a solução ideal para o seu negócio.",
+      " 'Análise completa: do diagnóstico à implementação da melhor solução.",
+    des: "Precisando de um site, landing page ou sistema personalizado? Nossa análise completa te ajuda a encontrar a solução ideal para o seu negócio.' ",
     img: "/des.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/google.svg", "/fm.svg"],
     /*   link: "https://github.com/adrianhajdin?tab=repositories", */
@@ -83,7 +83,7 @@ export const projects = [
   {
     id: 2,
     title: "Otimizando o SEO do seu negócio",
-    des: "Otimização de mecanismos de busca (SEO): melhore seu ranqueamento orgânico no Google e atraia mais tráfego qualificado.",
+    des: " 'Otimização de mecanismos de busca (SEO): melhore seu ranqueamento orgânico no Google e atraia mais tráfego qualificado.' ",
     img: "/seo.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
     /*   link: "https://github.com/adrianhajdin/zoom-clone", */
@@ -91,7 +91,7 @@ export const projects = [
   {
     id: 3,
     title: "Google meu negocio",
-    des: "Cansado de procurar clientes? Deixe que o Google Meu Negócio faça isso por você! Oferecemos configuração completa e otimização do seu perfil. Entre em contato e descubra como impulsionar seu negócio.",
+    des: " 'Cansado de procurar clientes? Deixe que o Google Meu Negócio faça isso por você! Oferecemos configuração completa e otimização do seu perfil. Entre em contato e descubra como impulsionar seu negócio.' ",
     img: "/gg.jpg",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
     /*   link: "https://github.com/adrianhajdin/ai_saas_app", */

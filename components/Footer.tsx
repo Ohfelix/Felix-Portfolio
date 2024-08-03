@@ -54,7 +54,7 @@ const Footer = () => {
           ))}
         </div>
         <p className="md:text-base text-sm md:font-normal font-light text-center mt-5 md:text-left">
-          Copyright © Leaandro Felix ®
+          Copyright © Leandro Felix ®
         </p>
       </div>
     </footer>
