@@ -98,9 +98,9 @@ export const projects = [
   },
   {
     id: 4,
-    title: "Bot what's up",
-    des: " 'Quer automatizar seu atendimento e aumentar suas vendas? Nosso bot de WhatsApp pode te ajudar! Agende uma demonstração gratuita e descubra como otimizar seu negócio.' ",
-    img: "/bot.png",
+    title: "E-comerce",
+    des: "Configuração total de loja online, Criação de lojas online sob medida! Desenvolvemos e configuramos seu e-commerce para que você venda mais, com designs modernos e funcionalidades práticas. Entre em contato e comece a vender hoje mesmo!",
+    img: "/7.jpg",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     /*   link: "https://github.com/adrianhajdin/iphone", */
   },
